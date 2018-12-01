@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>11.jpg</file>
+        <file>icon1.jpg</file>
+        <file>getheadimg.jpg</file>
+        <file>background.png</file>
+        <file>shu.png</file>
+        <file>loginbackground.png</file>
+        <file>registerbackground.png</file>
+        <file>daishu.ico</file>
+    </qresource>
+</RCC>
